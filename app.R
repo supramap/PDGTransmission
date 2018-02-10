@@ -1,3 +1,5 @@
+#New Author: Mike Cioce - 2/10/18
+
 library(shiny)
 # install.packages('phangorn', repos='http://cran.us.r-project.org')
 # install.packages('castor', repos='http://cran.us.r-project.org')
